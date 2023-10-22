@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <IsSet IsSet="0"/>
+    <ButtonRight ButtonRight="3"/>
+    <ButtonLeft ButtonLeft="0"/>
+    <ButtonJump ButtonJump="22"/>
+    <ButtonHeavy ButtonHeavy="27"/>
+    <ButtonPistol ButtonPistol="28"/>
+    <ButtonKnife ButtonKnife="29"/>
+    <ButtonRemaing ButtonRemaing="17"/>
+    <MusicVolume value="0.000000"/>
+</Config>

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Bot">
+      <UniqueIdentifier>{0550f27e-5c15-42ab-8d4d-a20d3f8f342f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Player">
+      <UniqueIdentifier>{95e39da9-dff8-4614-a719-5637009ddc13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Bullet">
+      <UniqueIdentifier>{8dbd4880-5b95-420d-bf9f-ffe97a6cbc73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\GUIELEMENTS">
+      <UniqueIdentifier>{778566ff-9b37-4e4e-8983-9b29def1061c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\GUIELEMENTS\Button">
+      <UniqueIdentifier>{01252d04-d6cb-41e6-b25f-c00686325089}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\GUIELEMENTS\Menu">
+      <UniqueIdentifier>{3e1e248d-66be-4e35-a9bb-e5cc0453f219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\GUIELEMENTS\Slider">
+      <UniqueIdentifier>{b9930381-c32e-4e76-9170-7f4ef2452514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\GUIELEMENTS\TextInput">
+      <UniqueIdentifier>{2198186f-fe54-4570-848c-43396f9f57dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Entity">
+      <UniqueIdentifier>{ecb08720-9f50-42a9-9a90-fa26115154c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Functions">
+      <UniqueIdentifier>{86f5d217-c431-4ebd-a1b6-355efd24447d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Weapon">
+      <UniqueIdentifier>{2b12e2ad-3f54-4581-bb32-ed6116f98615}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\TinyXML">
+      <UniqueIdentifier>{dbef3244-8808-4fd5-8bf8-84ca4e8c5a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Game">
+      <UniqueIdentifier>{7b7bc66b-59f0-4486-9f59-c8ec2c6d869f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Levels">
+      <UniqueIdentifier>{85fd79f6-2dd8-4b0a-989a-55ae0f040035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Resourse">
+      <UniqueIdentifier>{bf133de1-d55a-4893-8621-31e84f3e137f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinystr.cpp">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxml.cpp">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxml2.cpp">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxmlerror.cpp">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxmlparser.cpp">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Исходные файлы\Weapon</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="map.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Reshim.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="view.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Bot.h">
+      <Filter>Исходные файлы\Bot</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Исходные файлы\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Исходные файлы\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Исходные файлы\GUIELEMENTS\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Исходные файлы\GUIELEMENTS\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Исходные файлы\GUIELEMENTS\Slider</Filter>
+    </ClInclude>
+    <ClInclude Include="TextInput.h">
+      <Filter>Исходные файлы\GUIELEMENTS\TextInput</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Исходные файлы\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="configButtons.h">
+      <Filter>Исходные файлы\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="saveConfig.h">
+      <Filter>Исходные файлы\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="someClasses.h">
+      <Filter>Исходные файлы\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Исходные файлы\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXML\tinystr.h">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXML\tinyxml.h">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXML\tinyxml2.h">
+      <Filter>Исходные файлы\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Исходные файлы\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>Исходные файлы\Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="level.hpp">
+      <Filter>Исходные файлы\Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="lvlM.h">
+      <Filter>Исходные файлы\Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="Resourses.h">
+      <Filter>Исходные файлы\Resourse</Filter>
+    </ClInclude>
+    <ClInclude Include="GButton.h">
+      <Filter>Исходные файлы\GUIELEMENTS\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="GMenu.h">
+      <Filter>Исходные файлы\GUIELEMENTS\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenu.h">
+      <Filter>Исходные файлы\GUIELEMENTS\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBar.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleDebug.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

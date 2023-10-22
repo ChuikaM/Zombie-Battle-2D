@@ -1,0 +1,279 @@
+﻿  main.cpp
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(158): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(174): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(191): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(206): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(222): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\resourses.h(239): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(69): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(106): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(108): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(120): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(121): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(123): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(125): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(129): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(130): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(134): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(170): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(171): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(204): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(251): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(269): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(270): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(271): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(272): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(305): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(306): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(310): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(311): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(317): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(325): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\entity.h(74): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\entity.h(85): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\entity.h(87): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\entity.h(97): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\entity.h(116): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\entity.h(164): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bullet.h(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(51): warning C4129: ~: неизвестная escape-последовательность
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(111): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(114): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(163): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(183): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(235): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(245): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(246): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(269): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(283): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(300): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(317): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(333): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(349): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(352): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(356): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(357): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(407): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(408): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(423): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(428): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(436): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(443): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(450): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(458): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\weapon.h(461): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\physics.h(16): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\physics.h(26): warning C4305: -=: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\physics.h(31): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(53): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(80): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(82): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(86): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(88): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(93): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(97): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(100): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(160): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(163): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(169): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(183): warning C4244: аргумент: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(202): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\player.h(202): warning C4305: +=: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(22): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(35): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(46): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(47): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(53): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(55): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(59): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(61): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(67): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(69): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(70): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(72): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(94): warning C4244: аргумент: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\bot.h(98): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\gbutton.h(67): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\gbutton.h(100): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\gbutton.h(106): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\gbutton.h(124): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\slider.h(48): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\slider.h(55): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\someclasses.h(67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\reshim.h(78): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\reshim.h(79): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\reshim.h(80): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\reshim.h(81): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\reshim.h(82): warning C4305: =: усечение из "double" в "float"
+c:\users\matvey\source\repos\gurkgame\gurkgame\game.h(10): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\matvey\source\repos\gurkgame\gurkgame\game.h(226): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\matvey\source\repos\gurkgame\gurkgame\levelmy.h(320): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+  gurkGame.vcxproj -> C:\Users\matvey\source\repos\gurkGame\Debug\gurkGame.exe
